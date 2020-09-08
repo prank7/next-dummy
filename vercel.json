@@ -6,10 +6,6 @@
     {
       "src": "/how-it-works",
       "dest": "/public/how-it-works/index.html"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/"
     }
   ]
 }
